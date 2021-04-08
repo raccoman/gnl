@@ -35,4 +35,4 @@ raccoman@student.42roma.it
 [issues-shield]: https://img.shields.io/github/issues/raccoman/gnl?style=for-the-badge
 [issues-url]: https://github.com/raccoman/gnl/issues
 [license-shield]: https://img.shields.io/github/license/raccoman/gnl?style=for-the-badge
-[license-url]: https://github.com/raccoman/gnl/blob/master/LICENSE.txt
+[license-url]: https://github.com/raccoman/gnl/blob/master/LICENSE
