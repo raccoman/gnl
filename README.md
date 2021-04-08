@@ -10,7 +10,7 @@
   </a>
   <h3 align="center">GNL</h3>
   <p align="center">
-  
+  This project aims to code a function that read every single line, from a specific file descriptor.
   </p>
 </p>
 
